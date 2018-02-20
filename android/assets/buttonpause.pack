@@ -1,0 +1,19 @@
+
+buttonpause.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bouttonpause.down
+  rotate: false
+  xy: 0, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bouttonpause.up
+  rotate: false
+  xy: 30, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
